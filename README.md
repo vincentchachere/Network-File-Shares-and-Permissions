@@ -116,13 +116,7 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 <ins>Within the Read-Access Folder</ins>:
 
-
-
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b3af062d-cc32-497a-9ead-8d0740e6f6a1">
-
-<br>
-<br>
-<br>
+As a domain user, the permissions set earlier will prevent you from creating new text documents (or folders).
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/59bfdddc-8a6c-4296-9ac6-f80dda60bbff">
 
@@ -130,17 +124,33 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 <br>
 <br>
 
+<ins>Testing Write-Access Folder</ins>:
+
+Now we can try doing the same with the write-access folder, so head inside there.
+
+*Any guesses on what will happen when trying to create a text document (or folder) inside here?*
+
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7be0b61a-dca1-44ba-9dd3-9020d3cc67ff">
 
 <br>
 <br>
 <br>
 
+<ins>Testing Write-Access Folder</ins>:
+
+Right-click an empty space to create a new text document, add text, and try saving it.
+
+*This works because the folder's permissions are set to read/write for domain user accounts.*
+
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/5d7ae99a-be58-4114-a154-22a7e02d42ec">
 
 <br>
 <br>
 <br>
+
+<ins>Testing no-Access Folder</ins>:
+
+Finally, if you try to enter the **no-access** folder your access will be denied, since the permissions are set to read/write exclusively for domain admin accounts, not domain users.
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4b996f16-ff1e-45eb-b0c4-a881a70d2b72">
 
