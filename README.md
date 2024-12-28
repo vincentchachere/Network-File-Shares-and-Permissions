@@ -64,13 +64,31 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 *The folder names are arbitrary and chosen solely for simplicity in the lab.*
 
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0c63e3c2-37dd-4754-ac98-0ba08a6cc039">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c1a30c85-ccd1-427f-a2da-a60297a773e5">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<ins>Set the following Permissions</ins>:
+
+*Right-click each folder, select Properties to initiate setting groups and permissions, then follow the image from left to right.*
+
+- Folder: **read-access**
+  - Group: **Domain Users**
+  - Permissions: **Read**
+
+- Folder: **read-access**
+  - Group: **Domain Users**
+  - Permissions: **Read/Write**
+ 
+- Folder: **read-access**
+  - Group: **Domain Admins**
+  - Permissions: **Read/Write**
+
+- Skip **accounting** folder for now
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/aa3dce31-ad23-4945-94b1-8094e2d8bd04">
 
 <br>
 <br>
