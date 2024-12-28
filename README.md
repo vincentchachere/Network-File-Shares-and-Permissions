@@ -217,3 +217,9 @@ Sign back into Client-1 as your domain user account (mydomain.com\jib.soc) and t
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/a58f9c99-e467-43ed-9692-2b456e521c6c">
 
 </details>
+
+<h2 align="center">Final Thoughts</h2>
+
+This lab focused on managing file shares and permissions in a Windows domain environment. It involved creating shared folders with varying access levels, testing permissions as a normal user, and demonstrating the impact of group membership on access. The exercise highlighted the importance of proper permission configuration, verifying access, and using security groups to control resource availability, reinforcing best practices in access management.
+
+☎️ For questions or to connect you can reach me at: www.linkedin.com/in/vincentchachere
