@@ -164,6 +164,8 @@ Finally, if you try to enter the **no-access** folder your access will be denied
 
 </summary>
 
+Go back to DC-1, in Active Directory, and create a Security Group called "**ACCOUNTANTS**".
+
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d891e3a7-e104-42da-8d29-6ce5cca11fbe">
 
 <br>
@@ -172,19 +174,13 @@ Finally, if you try to enter the **no-access** folder your access will be denied
 
 <ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
 
+On the "accounting" folder you created earlier, set the following permissions:
 
+- Folder: "**accounting**"
+  - Group: "**ACCOUNTANTS**"
+  - Permissions: "**Read/Write**"
 
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/72e24b98-05af-4385-a04b-bec5fb0ad6cd">
-
-<br>
-<br>
-<br>
-
-<ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
-
-
-
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/a3f67c58-8960-4863-9a82-017c39d581ab">
 
 <br>
 <br>
@@ -192,9 +188,9 @@ Finally, if you try to enter the **no-access** folder your access will be denied
 
 <ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
 
+On Client-1, as a normal user (mydomain.com\jib.soc), **try to access the accountants folder**. It should fail.
 
-
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/887a3350-a53d-4a11-8430-00f40e003e37">
 
 <br>
 <br>
@@ -202,7 +198,19 @@ Finally, if you try to enter the **no-access** folder your access will be denied
 
 <ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
 
+On DC-1, **make your domain user account a member of** the "**ACCOUNTANTS**" Security Group.
 
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b09de8f1-a0e7-4592-a5c9-f9b2c44c02df">
+
+<br>
+<br>
+<br>
+
+<ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
+
+Sign back into Client-1 as your domain user account (mydomain.com\jib.soc) and try to access the "accounting" share file in **\\dc-1**.
+
+*Does it work now?*
 
 <img width="800" alt="isolated" src="">
 
