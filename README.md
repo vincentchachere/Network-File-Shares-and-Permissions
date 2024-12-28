@@ -208,10 +208,12 @@ On DC-1, **make your domain user account a member of** the "**ACCOUNTANTS**" Sec
 
 <ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
 
-Sign back into Client-1 as your domain user account (mydomain.com\jib.soc) and try to access the "accounting" share file in **\\dc-1**.
+Sign back into Client-1 as your domain user account (mydomain.com\jib.soc) and try to access the "accounting" share file in **\\\dc-1**.
+
+*You may need to restart your Client-1 VM from your Azure Portal.*
 
 *Does it work now?*
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/a58f9c99-e467-43ed-9692-2b456e521c6c">
 
 </details>
