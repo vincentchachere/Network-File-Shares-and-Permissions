@@ -106,7 +106,7 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 - Go To: `Start` > `run` > `\\dc-1`
 
-- Access the: `read-access` folder
+- Access: the `read-access` folder
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/38b739d2-c152-4f64-9fb8-169cabf52eea">
 
@@ -142,19 +142,7 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
-
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
-
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4b996f16-ff1e-45eb-b0c4-a881a70d2b72">
 
 </details>
 
