@@ -47,11 +47,48 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 <summary>
 
-### 1. ) 
+### 1. ) Create File Shares with Specific Permissions
 
 </summary>
 
+*Log into DC-1 as your domain admin account (mydomain.com\jane_admin)*
 
+*Log into Client-1 as a normal user (mydomain.com\jib.soc)*
+
+<ins>First, on DC-1 on the **C:\ drive**, create 4 folders</ins>:
+
+- 1st Folder: `read-access`
+- 2nd Folder: `write-access`
+- 3rd Folder: `no-access`
+- 4th Folder: `accounting`
+
+*The folder names are arbitrary and chosen solely for simplicity in the lab.*
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
 
 </details>
 
@@ -65,7 +102,31 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 </summary>
 
+<img width="800" alt="isolated" src="">
 
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
 
 </details>
 
@@ -77,6 +138,30 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 </summary>
 
+<img width="800" alt="isolated" src="">
 
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="">
 
 </details>
