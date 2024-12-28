@@ -138,7 +138,7 @@ Now we can try doing the same with the write-access folder, so head inside there
 
 <ins>Testing Write-Access Folder</ins>:
 
-Right-click an empty space to create a new text document, add text, and try saving it.
+Right-click an empty space to **create a new text document**, **add text**, and **try saving it**.
 
 *This works because the folder's permissions are set to read/write for domain user accounts.*
 
@@ -160,21 +160,39 @@ Finally, if you try to enter the **no-access** folder your access will be denied
 
 <summary>
 
-### 3. ) 
+### 3. ) Configure Security Groups, Assign Permissions, and Test Access
 
 </summary>
 
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d891e3a7-e104-42da-8d29-6ce5cca11fbe">
+
+<br>
+<br>
+<br>
+
+<ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
+
+
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/72e24b98-05af-4385-a04b-bec5fb0ad6cd">
+
+<br>
+<br>
+<br>
+
+<ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
+
+
+
 <img width="800" alt="isolated" src="">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
 
-<br>
-<br>
-<br>
+
 
 <img width="800" alt="isolated" src="">
 
@@ -182,11 +200,9 @@ Finally, if you try to enter the **no-access** folder your access will be denied
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<ins>Configure Security Groups, Assign Permissions, and Test Access</ins>:
 
-<br>
-<br>
-<br>
+
 
 <img width="800" alt="isolated" src="">
 
