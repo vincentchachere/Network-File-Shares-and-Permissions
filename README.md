@@ -90,24 +90,6 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 <img width="800" alt="isolated" src="https://github.com/user-attachments/assets/aa3dce31-ad23-4945-94b1-8094e2d8bd04">
 
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
-
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
-
-<br>
-<br>
-<br>
-
-<img width="800" alt="isolated" src="">
-
 </details>
 
 </details>
@@ -116,17 +98,45 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 <summary>
 
-### 2. ) 
+### 2. ) Test Access to File Shares as a Normal User
 
 </summary>
 
-<img width="800" alt="isolated" src="">
+<ins>Log into Client-1 as normal user (mydomain.com\jib.soc) and navigate to the shared folders</ins>:
+
+- Go To: `Start` > `run` > `\\dc-1`
+
+- Access the: `read-access` folder
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/38b739d2-c152-4f64-9fb8-169cabf52eea">
 
 <br>
 <br>
 <br>
 
-<img width="800" alt="isolated" src="">
+<ins>Within the Read-Access Folder</ins>:
+
+
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/b3af062d-cc32-497a-9ead-8d0740e6f6a1">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/59bfdddc-8a6c-4296-9ac6-f80dda60bbff">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7be0b61a-dca1-44ba-9dd3-9020d3cc67ff">
+
+<br>
+<br>
+<br>
+
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/5d7ae99a-be58-4114-a154-22a7e02d42ec">
 
 <br>
 <br>
