@@ -64,7 +64,7 @@ This lab builds on the previous one [here](https://github.com/vincentchachere/Ac
 
 *The folder names are arbitrary and chosen solely for simplicity in the lab.*
 
-<img width="800" alt="isolated" src="">
+<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/0c63e3c2-37dd-4754-ac98-0ba08a6cc039">
 
 <br>
 <br>
