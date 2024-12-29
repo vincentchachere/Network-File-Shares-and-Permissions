@@ -222,7 +222,7 @@ Sign back into Client-1 as your domain user account (mydomain.com\jib.soc) and t
 
 This lab focused on managing file shares and permissions in a Windows domain environment. It involved creating shared folders with varying access levels, testing permissions as a normal user, and demonstrating the impact of group membership on access. The exercise highlighted the importance of proper permission configuration, verifying access, and using security groups to control resource availability, reinforcing best practices in access management.
 
-To continue the Active Directory series, explore [Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts/blob/main/README.md).
+To continue the Active Directory series, explore [Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts/blob/main/README.md) or [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals/blob/main/README.md) lab.
 
 Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated. 
 
