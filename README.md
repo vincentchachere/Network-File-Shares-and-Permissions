@@ -18,7 +18,7 @@
 
 ## Lab Overview
 
-This lab builds on the previous one [here](https://github.com/vincentchachere/Active-Directory-Deployment-and-Configuration/edit/main/README.md). This lab guides users through creating file shares with specific permissions, testing access as different roles, and managing folder access using a security group in Active Directory. Participants will configure, test, and troubleshoot file share permissions to understand access control in a domain environment.
+Building on the previous [Active Directory Deployment and Configuration](https://github.com/vincentchachere/Active-Directory-Deployment-and-Configuration) lab, this lab guides users through creating file shares with specific permissions, testing access as different roles, and managing folder access using a security group in Active Directory. Participants will configure, test, and troubleshoot file share permissions to understand access control in a domain environment.
 
 ## Environments and Technologies Used
 
@@ -222,7 +222,7 @@ Sign back into Client-1 as your domain user account (mydomain.com\jib.soc) and t
 
 This lab focused on managing file shares and permissions in a Windows domain environment. It involved creating shared folders with varying access levels, testing permissions as a normal user, and demonstrating the impact of group membership on access. The exercise highlighted the importance of proper permission configuration, verifying access, and using security groups to control resource availability, reinforcing best practices in access management.
 
-To continue the Active Directory series, explore the [Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts/blob/main/README.md) or [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals/blob/main/README.md) lab.
+To continue the Active Directory series, explore the [Group Policy and Account Management](https://github.com/vincentchachere/Group-Policy-and-Managing-Accounts) or [DNS Resolution](https://github.com/vincentchachere/DNS-Fundamentals) lab.
 
 Thank you for following along with this project. Your time and effort in learning and implementing these concepts are greatly appreciated. 
 
